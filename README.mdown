@@ -11,7 +11,7 @@ rails new YOUR_APP -Tm http://git.io/8B2KVQ --skip-bundle
 ## Gems
 
   * [Foreman](https://github.com/ddollar/foreman/) - creates a blank `.env`
-  file and a `Procfile.development` with sensisble defaults.
+  file and a `Procfile.development` with sensible defaults.
 
 ### Development
 
