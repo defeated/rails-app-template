@@ -1,0 +1,25 @@
+# My Rails application remplate
+
+A small collection of gems and practices I currently use.
+
+## Gems
+
+  * [Sextant](https://github.com/schneems/sextant/)
+  * [Marginalia](https://github.com/37signals/marginalia/)
+  * [Quiet Assets](https://github.com/evrone/quiet_assets/)
+  * [RSpec](https://github.com/rspec/rspec-rails/)
+  * [Cucumber](https://github.com/cucumber/cucumber-rails/)
+  * [Guard](https://github.com/guard/guard/)
+  * [Foreman](https://github.com/ddollar/foreman/)
+
+## Practices
+
+  * Creates example `.env.example` and `database.example.yml` files and ignores
+the original files in `.gitignore`.
+
+  * Removes junk like `public/index.html` and sets up a Markdown-formatted
+`README` file.
+
+  * Uses the `--binstubs` flag when bundling
+
+  * Migrates and seeds the `development` database
