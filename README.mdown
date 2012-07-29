@@ -1,6 +1,6 @@
-# My Rails application remplate
+# My Rails application template
 
-A small collection of gems and practices I currently use.
+A small collection of gems and practices I currently use. (A work in progress.)
 
 ## Usage
 
