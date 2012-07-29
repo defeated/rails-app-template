@@ -10,13 +10,21 @@ rails new YOUR_APP -Tm http://git.io/8B2KVQ --skip-bundle
 
 ## Gems
 
+  * [Foreman](https://github.com/ddollar/foreman/) - creates a blank `.env`
+  file and a `Procfile.development` with sensisble defaults.
+
+### Development
+
   * [Sextant](https://github.com/schneems/sextant/)
   * [Marginalia](https://github.com/37signals/marginalia/)
   * [Quiet Assets](https://github.com/evrone/quiet_assets/)
+
+### Test
+
   * [RSpec](https://github.com/rspec/rspec-rails/)
   * [Cucumber](https://github.com/cucumber/cucumber-rails/)
-  * [Guard](https://github.com/guard/guard/)
-  * [Foreman](https://github.com/ddollar/foreman/)
+  * [Guard](https://github.com/guard/guard/) - includes `guard-rspec` and
+  `guard-cucumber`
 
 ## Practices
 
