@@ -2,6 +2,12 @@
 
 A small collection of gems and practices I currently use.
 
+## Usage
+
+```
+rails new YOUR_APP -Tm http://git.io/8B2KVQ --skip-bundle
+```
+
 ## Gems
 
   * [Sextant](https://github.com/schneems/sextant/)
