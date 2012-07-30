@@ -46,6 +46,7 @@ gem_group :test do
 end
 
 # bundle it and generate binstubs
+append_file ".gitignore", "\n/bin"
 run "bundle install --binstubs --without production"
 
 # post-bundle steps
